@@ -1,0 +1,15 @@
+.course{
+    display: flex;
+    margin-bottom: 25px;
+    border-bottom: 1px solid #000;
+
+
+}
+
+.course img{
+    width: 150px;
+    height: 150px;
+    margin: 15px;
+
+
+}
